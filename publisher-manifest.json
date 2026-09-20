@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9b363f234ff606e0fbd63bbb",
+  "owner": "mbhpfdkpa",
+  "repo": "page-4dfc3d267ffacb657ea96d34",
+  "title": "菜市场(Texon)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4dfc3d267ffacb657ea96d34",
+      "a": "菜市场(Texon)",
+      "b": "2027官方最新地址导航",
+      "entity": "菜市场(Texon)",
+      "brand": "菜市场(Texon)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fa4e47137ac131baa313780f18b6970cbe0ddf45d6df4bcc0a1b1469f251020b",
+      "content": {
+        "primary_entity": "菜市场(Texon)",
+        "keyword1": "菜市场(Texon)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "菜市场(Texon)客户端覆盖主流桌面与移动系统，按设备选择对应版本即可。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "先选套餐再配订阅，在常用设备上完成一次导入即可稳定使用。",
+          "AI_CLOSING_TITLE": "选好套餐，开始配置",
+          "AI_DESCRIPTION": "，作为海外加速器，菜市场(Texon)提供基础版、旗舰版与团队版三档订阅，月付分别为 ¥15、¥35、¥85，按年付仅需 ¥150、¥350、¥850。流量从每月 100GB 到 1000GB，在线设备从 3 台到 20 台，旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由。围绕设备选择、订阅配置与套餐对比，可按实际用量与终端数量决定版本。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与订阅周期三个角度对比套餐，能快速找到合适版本。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备，按月付 ¥35，按年付 ¥350。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、20 台设备，支持企业定制路由，适合多终端协同场景。",
+          "AI_FEATURE_TEXT_3": "订阅支持按年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更省。",
+          "AI_FEATURE_TITLE_1": "按流量与设备对比",
+          "AI_FEATURE_TITLE_2": "团队多终端套餐",
+          "AI_FEATURE_TITLE_3": "年付周期更省",
+          "AI_GUIDE_INTRO": "挑选服务、核对适配要求、导入订阅三步完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "菜市场(Texon)面向需要海外加速的用户，提供基础版、旗舰版与团队版三档订阅。月付价格从 ¥15 起，按年付更省；流量覆盖每月 100GB 至 1000GB，在线设备从 3 台到 20 台，可按使用量与终端数量选择。",
+          "AI_HERO_SUBTITLE": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "旗舰版含 IPLC 游戏加速优化",
+          "AI_HIGHLIGHT_2": "团队版支持企业定制路由",
+          "AI_HIGHLIGHT_3": "年付价格低于月付合计",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与加速，团队版面向多终端协同。三档均支持按年付，年付价分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与在线设备数量，在基础版、旗舰版与团队版之间选定版本。",
+          "AI_STEP_TEXT_2": "核对系统版本与设备数量是否满足所选套餐的在线设备上限和适配要求。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按文档完成配置并开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "菜市场(Texon)海外加速",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。超出后可升级套餐，或在设备端按需切换登录。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度日常用基础版即可，多设备高频使用可选旗舰版或团队版。",
+          "AI_FAQ_ANSWER_3": "可以在路由器、电脑或手机客户端导入订阅地址使用，具体按所选客户端的配置方式操作，不同系统支持情况有差异。",
+          "AI_FAQ_ANSWER_4": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。按年付通常更划算。",
+          "AI_FAQ_ANSWER_5": "旗舰版带 IPLC 专线，针对游戏和实时应用优化；基础版为普通线路节点池。对延迟敏感建议选旗舰版。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "不同套餐每月流量差多少？",
+          "AI_FAQ_QUESTION_3": "客户端订阅可以导入路由器吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格分别是多少？",
+          "AI_FAQ_QUESTION_5": "旗舰版和基础版线路有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "158you.cn",
+    "host": "158you.cn"
+  },
+  "file_hashes": {
+    "index.html": "7557f5dea0036cb97af449b19554e9d95ab4c822d4ab5508bbed4e82803f69fe",
+    "sitemap.xml": "627cbb00f22b00a93d075f350edda699d49a28cec8a9aa26c6c0d30230bf3cda",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c2258d694788f7dd5c4d82f5e386a422da974d454df5257b99e173704e3f34e2",
+    "robots.txt": "fbdbcb48177d73a52200851bd414586391528d5a21c4ae49637b2dd50c5f7b50",
+    "ef86525dae04ba7417dd8e3704d39fa8.txt": "95fa274c72d2e028c0f11273f91572f8603cf3fe16dde77622794b624fd6e300"
+  },
+  "revision": "fa7840e839eaecf34a687d465217a31f92e75b239f91d1d1e2fe2286663259f0"
+}
